@@ -6,7 +6,7 @@ Everything I'm actively working on learning and updating scripts for.
 
 ### Data science
   1. Kaggle competition data sets. (https://www.kaggle.com/)
-      * Starting with the classic titanic data set supplemented with learning through the Bioinformatics Club Machine Learning team 
+      * This is actually being uploaded with CSU bioinformatics club (https://github.com/CSUBioinformatics)
   2. UC Irvine ML Data Repository (http://archive.ics.uci.edu/ml/datasets.html)
   3. Datacamp (https://www.datacamp.com/). Bioinformatics club members have free access to to course materials, so I figured this would be a good way to learn how to do data science in Python (prior experience in R, but not much)
       * Data scientist with Python track - DC projects in python
