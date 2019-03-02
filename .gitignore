@@ -2,6 +2,7 @@
 data_science/kaggle/titanic/data/*
 data_science/college_scorecard/data/*
 *-checkpoint.ipynb
-*/.idea/*
-*/cmake-build-debug/*
-*/CMakeLists.txt
+**/.idea/*
+**/cmake-build-debug/*
+CMakeLists.txt
+a.out
