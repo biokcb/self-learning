@@ -1,5 +1,3 @@
-
-
 // key value pairs within hashtable
 typedef struct {
     char* key;
@@ -12,3 +10,7 @@ typedef struct {
     int count;
     ht_item** items;
 } ht_hashtable;
+
+void ht_insert(ht_hashtable* ht, const char* key, const char* value);
+char* ht_search(ht_hashtable* ht, const char* key);
+void ht_delete(ht_hashtable* h, const char* key);
